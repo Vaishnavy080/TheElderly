@@ -2,10 +2,10 @@
                                            README FILE
 ***************************************************************************************************
 
-	TheElderly app is created for the elderly as the name suggests. The main purpose of this app is to 
+TheElderly app is created for the elderly as the name suggests. The main purpose of this app is to 
 send reminders to stay healthier in everyday life. Since the old people are not technosavy, the GUI 
-is kept extremely basic with basic functionalities like setting a reminder to drink about 8 glasses of water 
-everyday, take medicined on set time regularly and also calculate BMI.  
+is kept extremely basic with basic functionalities like setting a reminder to drink about 8 glasses 
+of water everyday, take medicined on set time regularly and also calculate BMI.  
 
 How to run the app:
 
