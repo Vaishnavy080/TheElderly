@@ -12,8 +12,11 @@ How to run the app:
 =>Extract the zip file to a desired path say "C:\Downloads\TheElderly"
 
 => Running the project on the terminal:
+
     1.Open terminal and type $cd 'path to the project file ex.C:\Downloads\TheElderly'
+    
     2.Activate the virtual environment
+    
                 You can activate the python environment by running the following command:
 
                 For Mac OS / Linux:
